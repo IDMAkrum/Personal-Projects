@@ -1,0 +1,6 @@
+*.pyc
+
+# PyInstaller
+build/
+*.manifest
+*.spec
